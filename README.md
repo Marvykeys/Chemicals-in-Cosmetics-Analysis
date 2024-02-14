@@ -25,6 +25,7 @@ It can be downloaded on [Kaggle](http://www.kaggle.com)
 
 ## Methodology 📖
 As a team with constant communication and feedback amongst ourselves:
+ 
  (1) We utilised the data dictionary to better understand what each column represents.
  
  (2) As a result of the data being dirty, with wrongly spelt texts, typographical errors and wrong formatting, we had to clean the data by using SQL Functions for manipulating data such as the UPDATE,SET, REPLACE, ALTER TABLE, ALTER COLUMN and CAST functions.
