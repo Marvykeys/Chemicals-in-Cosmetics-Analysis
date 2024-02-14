@@ -4,7 +4,7 @@ scrutinize a **Chemicals in cosmetics dataset**, explore information on the chem
 using **Tableau**.
 ## Scope :page_with_curl:
 This report explores information on the chemicals used in cosmetics and personal care products and insights are shared on an interactive tableau dashboard.
-## Team Members 🧑‍🤝‍🧑:
+## Team Members 🧑‍🤝‍🧑
 **Daniel**
 
 **Fredda**
