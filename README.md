@@ -5,10 +5,14 @@ using **Tableau**.
 ## Scope :page_with_curl:
 This report explores information on the chemicals used in cosmetics and personal care products and insights are shared on an interactive tableau dashboard.
 ## Team Members 🧑‍🤝‍🧑:
-**Daniel**/
-**Fredda**/
+**Daniel**
+
+**Fredda**
+
 **Marvy**
+
 **Maureen**
+
 **Khaiyra**
 
 ## Data Overview :scroll:
