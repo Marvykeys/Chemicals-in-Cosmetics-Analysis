@@ -49,7 +49,7 @@ As a team with constant communication and feedback amongst ourselves:
 
 ## The Dashboard 🎨
 
-<img width="347" alt="Airbnb 1" src="https://github.com/Marvykeys/Chemicals-in-Cosmetics-Analysis/assets/130637591/bd8fb788-9ee3-4b54-b523-25bee6c90bc4">
+<img width="800" alt="Chemicals in Cosmetics" src="https://github.com/Marvykeys/Chemicals-in-Cosmetics-Analysis/assets/130637591/bd8fb788-9ee3-4b54-b523-25bee6c90bc4">
 
 
 ## Insights 🔬
