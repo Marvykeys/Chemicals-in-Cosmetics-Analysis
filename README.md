@@ -49,8 +49,7 @@ As a team with constant communication and feedback amongst ourselves:
 
 ## The Dashboard 🎨
 
-<img width="800" alt="Chemicals in Cosmetics" src="https://github.com/Marvykeys/Chemicals-in-Cosmetics-Analysis/assets/130637591/bd8fb788-9ee3-4b54-b523-25bee6c90bc4">
-
+<img width="865" alt="Chemicals in cosmetics Dashboard_1" src="https://github.com/Marvykeys/Chemicals-in-Cosmetics-Analysis-Skillphore-/assets/130637591/1d55c323-bbb8-4779-a6c2-44435c113509">
 
 ## Insights 🔬
 (a) Charlotte Beauty Ltd used the most reported chemicals (6,285).
